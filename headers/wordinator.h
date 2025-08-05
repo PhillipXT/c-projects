@@ -1,0 +1,1 @@
+void wordinate(long number, char *buffer, int bufflen);

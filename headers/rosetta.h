@@ -1,0 +1,1 @@
+void rosetta(char text[]);
